@@ -67,6 +67,7 @@
 	
 	
 })();
+console.table({Coder: "Rishabh Tripathi", Contact: "Rishabhtripathi2001@rediffmail.com"});
 //okay the slider ends here
 let nav = document.querySelector('.van');
 window.onscroll = () => {
